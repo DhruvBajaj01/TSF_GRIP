@@ -1,2 +1,2 @@
 # TSF_GRIP
-Jupyter Notebooks for GRIP - Data Science and Business Analytics
+Jupyter Notebooks for GRIP Internship- Data Science and Business Analytics
